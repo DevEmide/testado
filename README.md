@@ -15,7 +15,6 @@
 
 ---
 
-### 💤 Trainer Profile & Sobre Mim
 
 <table>
   <tr>
@@ -53,7 +52,7 @@
 
 ### 💻 Tecnologias & Conjunto de Skills
 
-<table width="100%">
+ <table width="100%">
   <tr>
     <td align="center">
       <h3>⚡ Dominando / Conheço</h3>
